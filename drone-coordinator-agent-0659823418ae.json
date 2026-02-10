@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drone-coordinator-agent",
+  "private_key_id": "0659823418aecfb6cb4becd887a4bde5994e5365",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7vJ1hwdjFVTu+\n1gLnzxX5UOGLYietj4w2Z08lzGSeMwk6dCgAbxWolsD98WgFjpKflO/DhM5aLP5e\nzr5lIa4w0KKlovgM65mJCdaeavT1hqctm85BhEAv027CLD9nExYLqrCFqgFtq2io\ng6BWLnQ66ooPslJpfC76Ikav7sVOir6JyO7lUdgo29tggVnRdTA71MHp9bSI8TqO\nPc7LVGD+Xbb/l8bJnKNO7pqYT6XPplnrxFUaXyvZ+22cSxfJb/cBKfOPRL7pfb+k\neomChIqN662Qe+Op81+J1DYKyf/gAwG6C+vAkWPHkudSgGMCrcDaEtNrqBe6k0xQ\n/iXO/CxDAgMBAAECggEAToaP2+Z9udizc1jIAVcc7VpX5PnK9+1trAndUMWkJonZ\nZ9JTMw9D428fTXju1jgy+z4MZd9EgvKD+XsHp3yFhFSYW6kFkT3wzCHJ3ByH1rUa\nc1jS1pOvV3HcR6rDYGVa2MluKZKZI1rJnYblB3dJ1aTp17Pyhb3UVnsEzy0T6Ywm\nzSd+ivgQtWksco8d2EF8TGXQUSyPEZbIC4bSevK7eyL+M+C++fxsUQ0kjAp4+5qI\n2l1JS4jEHfo7+pXZRqEOm5hZivt7kbnL3OBEq166SUGQpqsdIbk5ipwSdmo/ETBI\nKaci+LRmdYGD3bd4CQbmGlLIYujA/MhjbZDq6tDuCQKBgQDcf++Mw9pVGY0lvAaJ\nrO5fw/YLdXThgm5CA5iMGfTTJTBXSQOJKVRbH3U7pj8q4TmrlEEBWdcEeOw1NB8O\nYKsLF+Y96kpjdrXdemhY814xTWo7s2b+ku3q5Sx5fzMUnY7mFC3RC4g8ZRabkU6H\nnQqckBCWtPfCdn/tgQ8SkY0MKQKBgQDZ9lQKwdiGxuB0+UjqrhpR/AuzTajct718\nj7e/InRyFwh2uHYYry2+MNoZ70uUorzvOC9Gw3McsXov+vc0KZplIwVObcpAp0Qh\neaQgc/+I/MgySZnJtvkZEYMOw6TNIOfBqOjEoNK3Z2qqWscR8ezoY08CcAx8FRMa\nLCWNoKRCiwKBgCi15kCTGIiFwy2oXXyl1Q0RXSgYc4//SOQfTdbwI+eoAhjbfi+g\n1dZNJJPyyc7c7ozjPm1FbRGCUfowuVsqNepCa1wbGcjrbgCKTSG/LTDlHiwPn4B5\nGDw6O8/i0EeKH4wTRbJG8sxTzazDU0Bumjr1zlpE50mcH1p2bZX8EZKhAoGAJD6U\nBx3o9bCIjqsNdwjwk4WIJI7bb6iWN+pmMcB3AKnX3HYcHUq0HpZdDkb+mH7fUCBV\nrDzAHZtdqDDhfqkUZZEHRt127n1iFPb3VfY0HgF7APHAQwzMK2EAHCpoczvvjgKa\ngmgD4j+uOxnRVKiYLqSk9NDRIqkWfhmtPPnjlrUCgYEAj/qi7RsHm+P0Yv5aSCJK\nR5R5Vglh/K9WKJa95FxCunCW2GhM3Y6RoPRKaQ/Jb+ADy62TB0Px9p2p+EYZnZV5\n09g4hjw1cKHxSGh4kLNIklfk1UT7mJl1Yp6iXsp/1XW9Dka8wPBbrZ32ONoP5qdU\nWHte2I7xztodrZLkPUv9g9U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drone-agent-service@drone-coordinator-agent.iam.gserviceaccount.com",
+  "client_id": "105388706455913262870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drone-agent-service%40drone-coordinator-agent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
